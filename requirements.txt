@@ -1,0 +1,51 @@
+
+# ==========================================
+# AI STUDY ASSISTANT - PYTHON DEPENDENCIES
+# ==========================================
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Configuration and validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# PDF processing
+pymupdf
+
+# AI and LLM
+groq
+langgraph
+langchain-core
+
+# Embeddings and machine learning
+sentence-transformers
+torch
+transformers
+numpy
+
+# Vector database
+qdrant-client
+
+# Hybrid retrieval
+rank-bm25
+
+# MongoDB
+pymongo
+
+# Redis
+redis
+
+# HTTP and utilities
+httpx
+requests
+ddgs
+
+# Testing and code quality
+pytest
+pytest-asyncio
+ruff
+
